@@ -1,0 +1,16 @@
+EmployeeID,Department,JobLevel,HireDate,ExitDate,ExitReason
+EMP0013,Finance,Junior,2024-01-01,2025-10-22,Compensation
+EMP0035,Finance,Mid-level,2022-04-06,2025-05-30,Personal reasons
+EMP0048,Customer Support,Junior,2024-01-19,2025-11-14,Personal reasons
+EMP0059,Engineering,Mid-level,2024-03-28,2025-08-15,Role change
+EMP0065,Engineering,Junior,2024-04-13,2025-03-20,Compensation
+EMP0070,Engineering,Junior,2025-02-05,2025-05-23,Role change
+EMP0074,Marketing,Junior,2024-10-22,2025-03-03,Role change
+EMP0081,Engineering,Junior,2022-02-22,2025-07-11,Career growth
+EMP0101,Marketing,Mid-level,2025-06-16,2025-02-10,Relocation
+EMP0109,Finance,Junior,2019-09-04,2025-07-31,Compensation
+EMP0116,Sales,Senior,2023-12-07,2025-01-21,Career growth
+EMP0149,Sales,Senior,2023-11-06,2025-07-29,Relocation
+EMP0160,Finance,Senior,2020-10-04,2025-05-28,Career growth
+EMP0164,Operations,Senior,2018-05-24,2025-04-20,Relocation
+EMP0166,Finance,Junior,2021-07-26,2025-02-11,Relocation

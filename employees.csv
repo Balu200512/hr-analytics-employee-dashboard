@@ -1,0 +1,181 @@
+EmployeeID,EmployeeName,Department,JobLevel,Location,EmploymentType,HireDate,Gender,AnnualSalaryINR,ManagerID,EmploymentStatus
+EMP0001,Meera Kulkarni,Finance,Senior,Remote,Contract,2025-04-10,Male,927541,,Active
+EMP0002,Dev Joshi,Sales,Junior,Bengaluru,Part-time,2022-07-09,Male,362869,,Active
+EMP0003,Arjun Mehta,Marketing,Mid-level,Pune,Part-time,2018-08-04,Non-disclosed,506345,,Active
+EMP0004,Rahul Rao,Sales,Junior,Hyderabad,Contract,2023-11-18,Non-disclosed,402744,,Active
+EMP0005,Sara Bose,Engineering,Junior,Remote,Part-time,2024-01-23,Male,470475,,Active
+EMP0006,Meera Patel,Customer Support,Senior,Chennai,Contract,2022-11-28,Non-disclosed,1228465,,Active
+EMP0007,Rohan Khan,Sales,Junior,Bengaluru,Contract,2020-10-17,Male,492704,,Active
+EMP0008,Kabir Reddy,Human Resources,Senior,Pune,Part-time,2021-05-21,Female,936403,,Active
+EMP0009,Aarav Mehta,Sales,Senior,Bengaluru,Contract,2021-03-13,Female,1418980,,Active
+EMP0010,Aarav Patel,Customer Support,Junior,Pune,Part-time,2024-11-20,Female,447365,,Active
+EMP0011,Aditya Khan,Finance,Junior,Bengaluru,Full-time,2020-07-18,Female,519650,EMP0002,Active
+EMP0012,Sara Kulkarni,Finance,Mid-level,Pune,Full-time,2019-07-17,Non-disclosed,553729,EMP0008,Active
+EMP0013,Arjun Pillai,Finance,Junior,Pune,Part-time,2024-01-01,Non-disclosed,414600,EMP0001,Resigned
+EMP0014,Zoya Khan,Finance,Mid-level,Pune,Full-time,2019-05-27,Female,866605,EMP0002,Active
+EMP0015,Diya Reddy,Human Resources,Lead,Bengaluru,Part-time,2018-12-22,Non-disclosed,1321286,EMP0009,Active
+EMP0016,Nisha Mehta,Operations,Junior,Remote,Contract,2022-12-24,Male,373482,EMP0006,Active
+EMP0017,Rahul Nair,Finance,Mid-level,Pune,Contract,2020-05-03,Male,504421,EMP0011,Active
+EMP0018,Ira Reddy,Engineering,Mid-level,Remote,Full-time,2024-09-02,Male,525146,EMP0004,Active
+EMP0019,Nisha Iyer,Human Resources,Mid-level,Pune,Part-time,2019-07-04,Female,754832,EMP0016,Active
+EMP0020,Ira Singh,Human Resources,Senior,Hyderabad,Full-time,2023-05-30,Non-disclosed,1082042,EMP0012,Active
+EMP0021,Zoya Das,Human Resources,Mid-level,Bengaluru,Full-time,2025-10-04,Female,711408,EMP0017,Active
+EMP0022,Ananya Patel,Customer Support,Junior,Hyderabad,Contract,2018-06-18,Non-disclosed,522426,EMP0019,Active
+EMP0023,Ananya Rao,Human Resources,Junior,Hyderabad,Part-time,2024-12-12,Male,310694,EMP0005,Active
+EMP0024,Rohan Pillai,Marketing,Junior,Bengaluru,Contract,2018-04-06,Non-disclosed,514195,EMP0003,Active
+EMP0025,Aarav Singh,Human Resources,Mid-level,Pune,Contract,2022-03-10,Non-disclosed,593567,EMP0002,Active
+EMP0026,Meera Pillai,Engineering,Mid-level,Hyderabad,Part-time,2024-07-29,Male,672263,EMP0009,Active
+EMP0027,Zoya Iyer,Operations,Mid-level,Remote,Contract,2022-08-08,Male,534161,EMP0014,Active
+EMP0028,Arjun Bose,Engineering,Junior,Pune,Contract,2019-10-19,Non-disclosed,539399,EMP0013,Active
+EMP0029,Zoya Sharma,Human Resources,Junior,Remote,Part-time,2020-01-04,Female,326543,EMP0001,Active
+EMP0030,Ananya Kulkarni,Human Resources,Mid-level,Chennai,Part-time,2020-01-24,Non-disclosed,511156,EMP0014,Active
+EMP0031,Meera Sharma,Finance,Junior,Remote,Part-time,2024-04-29,Male,385633,EMP0001,Active
+EMP0032,Nisha Sharma,Operations,Mid-level,Remote,Part-time,2025-08-08,Male,878302,EMP0007,Active
+EMP0033,Priya Singh,Sales,Mid-level,Chennai,Contract,2019-06-08,Female,755874,EMP0003,Active
+EMP0034,Neha Bose,Sales,Junior,Chennai,Part-time,2022-04-20,Non-disclosed,426974,EMP0014,Active
+EMP0035,Meera Pillai,Finance,Mid-level,Remote,Part-time,2022-04-06,Female,608252,EMP0002,Resigned
+EMP0036,Kavya Iyer,Human Resources,Mid-level,Hyderabad,Part-time,2019-04-02,Male,794689,EMP0003,Active
+EMP0037,Aditi Singh,Human Resources,Mid-level,Chennai,Part-time,2025-02-16,Non-disclosed,872715,EMP0001,Active
+EMP0038,Ira Singh,Human Resources,Junior,Chennai,Part-time,2025-07-13,Male,373512,EMP0013,Active
+EMP0039,Kavya Reddy,Customer Support,Mid-level,Bengaluru,Contract,2025-08-06,Female,865803,EMP0020,Active
+EMP0040,Neha Mehta,Operations,Junior,Chennai,Contract,2022-03-21,Female,323271,EMP0014,Active
+EMP0041,Aditya Reddy,Customer Support,Mid-level,Bengaluru,Full-time,2019-02-07,Female,613963,EMP0011,Active
+EMP0042,Aditi Gupta,Engineering,Mid-level,Bengaluru,Full-time,2018-09-04,Male,562331,EMP0012,Active
+EMP0043,Vikram Kulkarni,Finance,Mid-level,Bengaluru,Contract,2023-04-25,Non-disclosed,852128,EMP0019,Active
+EMP0044,Ananya Singh,Human Resources,Mid-level,Chennai,Part-time,2023-03-25,Female,851758,EMP0011,Active
+EMP0045,Nisha Mehta,Finance,Mid-level,Hyderabad,Full-time,2022-09-19,Female,589205,EMP0020,Active
+EMP0046,Ishaan Khan,Customer Support,Mid-level,Bengaluru,Full-time,2021-01-30,Female,839986,EMP0009,Active
+EMP0047,Dev Sharma,Sales,Senior,Pune,Full-time,2019-01-23,Female,1066143,EMP0004,Active
+EMP0048,Ananya Gupta,Customer Support,Junior,Bengaluru,Contract,2024-01-19,Non-disclosed,359396,EMP0010,Resigned
+EMP0049,Meera Bose,Finance,Junior,Chennai,Part-time,2022-04-12,Male,503174,EMP0008,Active
+EMP0050,Arjun Patel,Engineering,Senior,Remote,Full-time,2025-12-26,Male,1101904,EMP0006,Active
+EMP0051,Aditya Singh,Human Resources,Senior,Chennai,Full-time,2018-09-29,Non-disclosed,1316133,EMP0017,Active
+EMP0052,Dev Kulkarni,Customer Support,Mid-level,Hyderabad,Part-time,2025-04-08,Non-disclosed,627037,EMP0017,Active
+EMP0053,Ananya Bose,Sales,Senior,Chennai,Part-time,2025-03-06,Female,987687,EMP0014,Active
+EMP0054,Aarav Singh,Customer Support,Mid-level,Pune,Full-time,2023-06-28,Female,577090,EMP0016,Active
+EMP0055,Ananya Iyer,Human Resources,Lead,Pune,Part-time,2020-02-26,Non-disclosed,1568533,EMP0019,Active
+EMP0056,Kavya Joshi,Operations,Mid-level,Chennai,Full-time,2020-04-15,Non-disclosed,550898,EMP0002,Active
+EMP0057,Aarav Sharma,Operations,Senior,Remote,Part-time,2022-06-27,Female,1271736,EMP0014,Active
+EMP0058,Ananya Joshi,Customer Support,Junior,Hyderabad,Part-time,2021-07-19,Female,358384,EMP0002,Active
+EMP0059,Kavya Patel,Engineering,Mid-level,Hyderabad,Part-time,2024-03-28,Non-disclosed,787861,EMP0002,Resigned
+EMP0060,Ishaan Joshi,Marketing,Lead,Remote,Full-time,2023-11-12,Non-disclosed,1742855,EMP0007,Active
+EMP0061,Ira Nair,Marketing,Mid-level,Pune,Contract,2019-06-06,Non-disclosed,844623,EMP0003,Active
+EMP0062,Zoya Khan,Customer Support,Junior,Bengaluru,Part-time,2023-05-15,Male,539803,EMP0019,Active
+EMP0063,Dev Joshi,Customer Support,Lead,Hyderabad,Full-time,2022-11-08,Female,1700136,EMP0011,Active
+EMP0064,Rahul Mehta,Human Resources,Mid-level,Pune,Part-time,2020-10-08,Non-disclosed,682950,EMP0014,Active
+EMP0065,Zoya Sharma,Engineering,Junior,Bengaluru,Part-time,2024-04-13,Non-disclosed,488881,EMP0010,Resigned
+EMP0066,Kabir Kulkarni,Sales,Junior,Chennai,Contract,2019-05-24,Female,335503,EMP0002,Active
+EMP0067,Aditya Singh,Sales,Senior,Hyderabad,Part-time,2022-07-26,Female,1077293,EMP0002,Active
+EMP0068,Ananya Iyer,Sales,Mid-level,Bengaluru,Part-time,2022-10-21,Female,506378,EMP0019,Active
+EMP0069,Diya Reddy,Customer Support,Mid-level,Bengaluru,Contract,2020-12-04,Male,761087,EMP0018,Active
+EMP0070,Ishaan Khan,Engineering,Junior,Remote,Contract,2025-02-05,Female,441976,EMP0006,Resigned
+EMP0071,Ananya Pillai,Sales,Senior,Bengaluru,Full-time,2022-02-24,Female,945535,EMP0005,Active
+EMP0072,Arjun Gupta,Sales,Junior,Bengaluru,Full-time,2020-01-23,Non-disclosed,429406,EMP0013,Active
+EMP0073,Sara Singh,Marketing,Mid-level,Remote,Part-time,2024-06-12,Female,622277,EMP0005,Active
+EMP0074,Aditya Singh,Marketing,Junior,Bengaluru,Part-time,2024-10-22,Female,515125,EMP0003,Resigned
+EMP0075,Diya Kulkarni,Marketing,Junior,Hyderabad,Contract,2024-09-30,Male,513398,EMP0020,Active
+EMP0076,Diya Mehta,Operations,Senior,Pune,Contract,2022-02-14,Male,1360603,EMP0005,Active
+EMP0077,Diya Joshi,Finance,Junior,Remote,Contract,2023-09-02,Male,415698,EMP0012,Active
+EMP0078,Neha Gupta,Finance,Junior,Bengaluru,Part-time,2020-04-13,Male,495686,EMP0001,Active
+EMP0079,Aditi Rao,Human Resources,Mid-level,Remote,Contract,2021-11-18,Female,674348,EMP0010,Active
+EMP0080,Kavya Kulkarni,Engineering,Junior,Remote,Part-time,2025-04-02,Non-disclosed,439574,EMP0014,Active
+EMP0081,Aarav Khan,Engineering,Junior,Chennai,Full-time,2022-02-22,Non-disclosed,335580,EMP0003,Resigned
+EMP0082,Vikram Reddy,Customer Support,Mid-level,Hyderabad,Part-time,2025-04-09,Female,851608,EMP0015,Active
+EMP0083,Priya Bose,Sales,Lead,Hyderabad,Contract,2023-01-06,Non-disclosed,1744177,EMP0003,Active
+EMP0084,Kabir Kulkarni,Customer Support,Senior,Pune,Contract,2019-08-14,Female,948453,EMP0003,Active
+EMP0085,Rahul Patel,Finance,Junior,Hyderabad,Full-time,2023-01-15,Non-disclosed,389288,EMP0008,Active
+EMP0086,Ananya Nair,Finance,Mid-level,Hyderabad,Part-time,2018-01-21,Female,711108,EMP0005,Active
+EMP0087,Aditi Patel,Customer Support,Mid-level,Pune,Contract,2023-01-29,Male,614061,EMP0003,Active
+EMP0088,Arjun Reddy,Marketing,Junior,Bengaluru,Full-time,2023-04-06,Male,470273,EMP0002,Active
+EMP0089,Kabir Singh,Sales,Junior,Remote,Part-time,2022-02-27,Male,479328,EMP0014,Active
+EMP0090,Ishaan Iyer,Customer Support,Senior,Pune,Contract,2023-01-09,Female,1192943,EMP0014,Active
+EMP0091,Kavya Singh,Customer Support,Mid-level,Bengaluru,Part-time,2018-03-02,Female,638451,EMP0005,Active
+EMP0092,Ishaan Singh,Engineering,Junior,Bengaluru,Contract,2020-10-17,Male,452170,EMP0008,Active
+EMP0093,Vikram Joshi,Sales,Junior,Remote,Part-time,2021-06-28,Non-disclosed,332466,EMP0003,Active
+EMP0094,Ananya Iyer,Human Resources,Mid-level,Remote,Contract,2024-10-01,Male,886173,EMP0020,Active
+EMP0095,Sara Iyer,Operations,Mid-level,Chennai,Full-time,2025-11-30,Male,797329,EMP0015,Active
+EMP0096,Priya Iyer,Customer Support,Junior,Chennai,Part-time,2021-07-07,Male,545482,EMP0006,Active
+EMP0097,Vikram Patel,Human Resources,Lead,Pune,Part-time,2022-04-04,Non-disclosed,1408077,EMP0013,Active
+EMP0098,Meera Iyer,Operations,Mid-level,Bengaluru,Contract,2022-09-12,Male,792162,EMP0005,Active
+EMP0099,Diya Reddy,Marketing,Junior,Pune,Contract,2025-04-24,Non-disclosed,366487,EMP0008,Active
+EMP0100,Priya Sharma,Operations,Junior,Chennai,Part-time,2019-12-09,Male,301385,EMP0007,Active
+EMP0101,Rohan Kulkarni,Marketing,Mid-level,Bengaluru,Part-time,2025-06-16,Male,681433,EMP0003,Resigned
+EMP0102,Priya Pillai,Human Resources,Junior,Remote,Part-time,2021-04-18,Male,362591,EMP0006,Active
+EMP0103,Aditya Nair,Marketing,Lead,Pune,Full-time,2022-02-26,Male,1393393,EMP0010,Active
+EMP0104,Nisha Reddy,Marketing,Mid-level,Hyderabad,Part-time,2022-09-16,Female,858828,EMP0001,Active
+EMP0105,Dev Khan,Engineering,Mid-level,Pune,Full-time,2021-04-18,Non-disclosed,764657,EMP0002,Active
+EMP0106,Kabir Patel,Operations,Senior,Hyderabad,Full-time,2022-01-07,Non-disclosed,1004857,EMP0010,Active
+EMP0107,Aarav Nair,Human Resources,Junior,Bengaluru,Part-time,2021-08-23,Female,409677,EMP0012,Active
+EMP0108,Vikram Sharma,Customer Support,Mid-level,Remote,Contract,2025-02-25,Non-disclosed,508032,EMP0001,Active
+EMP0109,Aditi Joshi,Finance,Junior,Pune,Contract,2019-09-04,Non-disclosed,491652,EMP0009,Resigned
+EMP0110,Aditya Nair,Operations,Senior,Pune,Part-time,2023-03-19,Male,1029656,EMP0011,Active
+EMP0111,Aditi Pillai,Finance,Lead,Hyderabad,Contract,2019-08-27,Non-disclosed,1973476,EMP0018,Active
+EMP0112,Ananya Pillai,Customer Support,Mid-level,Bengaluru,Contract,2020-08-09,Male,740133,EMP0019,Active
+EMP0113,Rohan Reddy,Finance,Junior,Hyderabad,Full-time,2019-07-20,Male,315035,EMP0001,Active
+EMP0114,Ishaan Khan,Finance,Senior,Bengaluru,Contract,2024-07-02,Non-disclosed,865257,EMP0013,Active
+EMP0115,Ishaan Singh,Finance,Mid-level,Bengaluru,Part-time,2023-07-28,Male,752080,EMP0013,Active
+EMP0116,Aditya Kulkarni,Sales,Senior,Pune,Contract,2023-12-07,Non-disclosed,922153,EMP0012,Resigned
+EMP0117,Zoya Reddy,Engineering,Lead,Pune,Part-time,2024-08-28,Non-disclosed,1923256,EMP0003,Active
+EMP0118,Rahul Reddy,Finance,Mid-level,Bengaluru,Full-time,2020-12-31,Female,666058,EMP0020,Active
+EMP0119,Rahul Mehta,Marketing,Senior,Bengaluru,Part-time,2018-07-21,Female,1211245,EMP0015,Active
+EMP0120,Aditya Sharma,Finance,Junior,Chennai,Full-time,2020-10-19,Male,495740,EMP0015,Active
+EMP0121,Nisha Nair,Finance,Mid-level,Bengaluru,Full-time,2025-01-02,Male,699956,EMP0018,Active
+EMP0122,Aditya Iyer,Sales,Mid-level,Chennai,Full-time,2022-08-24,Female,739867,EMP0016,Active
+EMP0123,Kavya Mehta,Sales,Lead,Remote,Full-time,2021-10-09,Non-disclosed,1432385,EMP0004,Active
+EMP0124,Zoya Kulkarni,Human Resources,Junior,Bengaluru,Full-time,2023-12-18,Female,370008,EMP0017,Active
+EMP0125,Nisha Sharma,Finance,Mid-level,Chennai,Full-time,2024-05-09,Non-disclosed,548300,EMP0014,Active
+EMP0126,Kabir Rao,Sales,Junior,Bengaluru,Contract,2022-03-10,Male,358796,EMP0020,Active
+EMP0127,Rohan Rao,Operations,Junior,Chennai,Contract,2025-06-21,Female,440342,EMP0014,Active
+EMP0128,Dev Sharma,Customer Support,Mid-level,Hyderabad,Full-time,2021-11-15,Male,634288,EMP0019,Active
+EMP0129,Aditya Das,Engineering,Senior,Hyderabad,Part-time,2021-08-22,Female,1041319,EMP0019,Active
+EMP0130,Neha Sharma,Marketing,Lead,Pune,Part-time,2020-06-13,Non-disclosed,1390525,EMP0011,Active
+EMP0131,Zoya Joshi,Finance,Lead,Chennai,Contract,2025-04-08,Male,1322216,EMP0008,Active
+EMP0132,Meera Rao,Sales,Mid-level,Pune,Full-time,2022-11-24,Male,524094,EMP0002,Active
+EMP0133,Ishaan Bose,Operations,Senior,Remote,Part-time,2025-08-11,Non-disclosed,1130440,EMP0010,Active
+EMP0134,Diya Das,Finance,Senior,Bengaluru,Contract,2024-02-11,Female,923741,EMP0020,Active
+EMP0135,Ira Reddy,Marketing,Mid-level,Bengaluru,Contract,2025-09-25,Non-disclosed,695863,EMP0006,Active
+EMP0136,Kabir Khan,Human Resources,Mid-level,Chennai,Part-time,2020-04-17,Female,511609,EMP0014,Active
+EMP0137,Priya Nair,Engineering,Mid-level,Remote,Full-time,2025-03-17,Female,606111,EMP0013,Active
+EMP0138,Kabir Iyer,Engineering,Mid-level,Hyderabad,Contract,2019-11-05,Non-disclosed,805019,EMP0016,Active
+EMP0139,Dev Nair,Operations,Mid-level,Remote,Part-time,2021-05-12,Non-disclosed,550339,EMP0009,Active
+EMP0140,Diya Reddy,Marketing,Junior,Hyderabad,Full-time,2018-08-31,Male,371399,EMP0016,Active
+EMP0141,Aditi Reddy,Human Resources,Mid-level,Chennai,Part-time,2018-10-04,Male,616281,EMP0001,Active
+EMP0142,Ananya Khan,Sales,Junior,Hyderabad,Part-time,2022-10-21,Female,455510,EMP0019,Active
+EMP0143,Aarav Gupta,Sales,Mid-level,Hyderabad,Part-time,2022-10-28,Female,845616,EMP0015,Active
+EMP0144,Ira Bose,Operations,Senior,Bengaluru,Contract,2018-08-01,Female,1259204,EMP0007,Active
+EMP0145,Aditya Mehta,Operations,Junior,Bengaluru,Contract,2024-10-11,Female,303623,EMP0013,Active
+EMP0146,Kavya Singh,Operations,Mid-level,Pune,Part-time,2020-01-25,Male,615846,EMP0012,Active
+EMP0147,Neha Joshi,Customer Support,Mid-level,Hyderabad,Full-time,2023-09-05,Female,550795,EMP0006,Active
+EMP0148,Aditi Kulkarni,Finance,Mid-level,Remote,Full-time,2025-10-21,Male,695895,EMP0003,Active
+EMP0149,Nisha Pillai,Sales,Senior,Remote,Contract,2023-11-06,Male,954534,EMP0015,Resigned
+EMP0150,Diya Iyer,Finance,Junior,Pune,Contract,2022-10-21,Female,416679,EMP0006,Active
+EMP0151,Aditi Das,Finance,Mid-level,Chennai,Part-time,2025-09-21,Non-disclosed,589931,EMP0008,Active
+EMP0152,Rahul Kulkarni,Marketing,Lead,Chennai,Full-time,2025-09-09,Non-disclosed,1374706,EMP0013,Active
+EMP0153,Meera Das,Human Resources,Mid-level,Pune,Contract,2024-12-02,Non-disclosed,560644,EMP0016,Active
+EMP0154,Kabir Rao,Finance,Mid-level,Hyderabad,Full-time,2024-11-29,Non-disclosed,696137,EMP0005,Active
+EMP0155,Kavya Bose,Engineering,Junior,Remote,Full-time,2020-05-10,Non-disclosed,548097,EMP0005,Active
+EMP0156,Sara Gupta,Human Resources,Mid-level,Hyderabad,Full-time,2024-05-04,Non-disclosed,654686,EMP0010,Active
+EMP0157,Nisha Gupta,Marketing,Junior,Hyderabad,Part-time,2020-09-09,Male,408005,EMP0016,Active
+EMP0158,Sara Kulkarni,Engineering,Lead,Bengaluru,Full-time,2021-02-01,Male,1492182,EMP0006,Active
+EMP0159,Nisha Bose,Human Resources,Mid-level,Pune,Contract,2021-04-14,Female,732974,EMP0007,Active
+EMP0160,Rahul Pillai,Finance,Senior,Hyderabad,Part-time,2020-10-04,Female,1363541,EMP0020,Resigned
+EMP0161,Zoya Kulkarni,Customer Support,Mid-level,Pune,Part-time,2019-10-27,Male,686492,EMP0020,Active
+EMP0162,Dev Kulkarni,Customer Support,Junior,Remote,Part-time,2025-04-04,Male,364955,EMP0003,Active
+EMP0163,Dev Rao,Operations,Mid-level,Hyderabad,Full-time,2021-08-21,Non-disclosed,556506,EMP0015,Active
+EMP0164,Dev Sharma,Operations,Senior,Remote,Contract,2018-05-24,Female,865566,EMP0020,Resigned
+EMP0165,Ananya Khan,Sales,Junior,Remote,Part-time,2021-11-15,Female,376426,EMP0011,Active
+EMP0166,Nisha Nair,Finance,Junior,Hyderabad,Part-time,2021-07-26,Non-disclosed,504341,EMP0017,Resigned
+EMP0167,Ishaan Reddy,Finance,Senior,Chennai,Contract,2023-07-06,Non-disclosed,872821,EMP0014,Active
+EMP0168,Neha Bose,Operations,Mid-level,Hyderabad,Part-time,2024-04-12,Female,895334,EMP0017,Active
+EMP0169,Ishaan Mehta,Customer Support,Junior,Hyderabad,Full-time,2019-04-04,Male,500632,EMP0004,Active
+EMP0170,Priya Bose,Engineering,Mid-level,Bengaluru,Part-time,2020-01-04,Female,832876,EMP0017,Active
+EMP0171,Neha Reddy,Finance,Senior,Pune,Full-time,2022-10-10,Male,1378886,EMP0003,Active
+EMP0172,Arjun Reddy,Finance,Senior,Remote,Part-time,2022-10-11,Female,1072522,EMP0004,Active
+EMP0173,Nisha Mehta,Sales,Senior,Hyderabad,Full-time,2021-02-24,Female,1425858,EMP0005,Active
+EMP0174,Aditi Gupta,Marketing,Junior,Remote,Contract,2018-01-01,Non-disclosed,318789,EMP0015,Active
+EMP0175,Neha Bose,Finance,Junior,Bengaluru,Contract,2025-06-14,Female,470473,EMP0018,Active
+EMP0176,Rahul Gupta,Human Resources,Junior,Chennai,Contract,2021-08-12,Female,500310,EMP0008,Active
+EMP0177,Aarav Joshi,Marketing,Senior,Bengaluru,Contract,2019-01-15,Non-disclosed,1432936,EMP0020,Active
+EMP0178,Priya Singh,Marketing,Mid-level,Pune,Contract,2021-02-19,Male,656334,EMP0019,Active
+EMP0179,Neha Pillai,Operations,Mid-level,Bengaluru,Part-time,2024-08-02,Male,896282,EMP0020,Active
+EMP0180,Ira Gupta,Human Resources,Mid-level,Remote,Contract,2020-05-29,Female,788572,EMP0011,Active

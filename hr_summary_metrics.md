@@ -1,0 +1,1 @@
+| Metric | Value |\n|---|---:|\n| Total employees in sample | 180.0 |\n| Active employees | 165.0 |\n| Synthetic exits | 15.0 |\n| Synthetic exit share (%) | 8.33 |\n| Overall attendance rate (%) | 91.38 |\n| Annual gross payroll (INR) | 137849880.82 |\n| Annual net payroll (INR) | 131211198.58 |\n
